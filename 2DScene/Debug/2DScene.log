@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(331,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(332,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(366,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(799,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(802,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(805,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1659,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1666,32): warning C4018: '<': signed/unsigned mismatch
+  2DScene.vcxproj -> C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\Debug\2DScene.exe

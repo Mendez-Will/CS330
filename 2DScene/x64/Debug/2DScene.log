@@ -1,0 +1,32 @@
+﻿  glad.c
+  Source.cpp
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1116,47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1117,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1118,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1119,47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1120,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1121,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1123,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1124,43): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1125,43): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1516,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\2DScene\Source.cpp(1523,32): warning C4018: '<': signed/unsigned mismatch
+Source.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSetScrollCallback referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glfwGetProcAddress referenced in function "bool __cdecl progInitialize(struct GLFWwindow * *)" (?progInitialize@@YA_NPEAPEAUGLFWwindow@@@Z)
+C:\Users\will\OneDrive\Desktop\Start cs330\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\will\OneDrive\Desktop\Start cs330\OpenGL\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\will\OneDrive\Desktop\Start cs330\CS330 1\CS330\2DScene\x64\Debug\2DScene.exe : fatal error LNK1120: 16 unresolved externals
